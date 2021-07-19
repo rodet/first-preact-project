@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "first-preact-project",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "build": "preact build",
@@ -27,6 +27,9 @@
     "sirv-cli": "1.0.3"
   },
   "dependencies": {
+    "carbon-components": "^10.39.0",
+    "carbon-components-react": "^7.39.0",
+    "carbon-icons": "^7.0.7",
     "preact": "^10.3.2",
     "preact-render-to-string": "^5.1.4",
     "preact-router": "^3.2.1"
