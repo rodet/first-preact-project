@@ -1,3 +1,4 @@
+import './style/carbon';
 import './style';
 import App from './components/app';
 
