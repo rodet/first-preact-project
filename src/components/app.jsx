@@ -1,4 +1,3 @@
-import { h } from 'preact';
 import { Router } from 'preact-router';
 
 import Header from './header';
@@ -16,6 +15,6 @@ const App = () => (
 			<Profile path="/profile/:user" />
 		</Router>
 	</div>
-)
+);
 
 export default App;
